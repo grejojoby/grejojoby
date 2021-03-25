@@ -7,7 +7,7 @@
 
 **Talk to me about:**
 
-HTML / CSS / JavaScript / Bootstrap / MySQL / MongoDB / Shared Web Hosting / Domain,DNS / Cloudflare / Digital Ocean / AWS / Amplify / Firebase / ReactJS / Tailwind / Angular / Strapi / React Native / Flutter / C / C++ / C# / Python / Java /  Unity Game Engine / Git / 
+HTML / CSS / JavaScript / Bootstrap / MySQL / C / C++ / Git / C# / Python / Java / MongoDB / Shared Web Hosting / Domain,DNS / Cloudflare / Digital Ocean / AWS / Amplify / Firebase / ReactJS / Tailwind / Angular / Strapi / React Native / Flutter / Unity Game Engine / Django / Flask
 
 
 
