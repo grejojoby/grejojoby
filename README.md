@@ -35,3 +35,8 @@ HTML / CSS / JavaScript / Bootstrap / MySQL / C / C++ / Git / C# / Python / Java
 <img align="center" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs?username=grejojoby&show_icons=true&locale=en&layout=compact" alt="grejojoby" />
 </p>
 
+<hr>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=grejojoby&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
+
+
