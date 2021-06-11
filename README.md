@@ -32,13 +32,8 @@ HTML / CSS / JavaScript / Bootstrap / MySQL / C / C++ / Git / C# / Python / Java
 
 <p align="center" style="display: flex;justify-content: space-around;">
 <img align="center" width="100%" src="https://github-profile-trophy.vercel.app/?username=grejojoby&theme=juicyfresh&no-frame=true&row=1" alt="grejojoby" />
-<!-- <img align="center" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs?username=grejojoby&show_icons=true&locale=en&layout=compact" alt="grejojoby" /> -->
 </p>
 
-<p align="center" style="display: flex;justify-content: space-around;">
-<!-- <img align="center" width="50%" src="https://github-profile-trophy.vercel.app/?username=grejojoby&theme=juicyfresh&no-frame=true&row=2&column=3" alt="grejojoby" /> -->
-<img align="center" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs?username=grejojoby&show_icons=true&locale=en&layout=compact" alt="grejojoby" />
-</p>
 
 <hr>
 
