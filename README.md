@@ -31,12 +31,12 @@ HTML / CSS / JavaScript / Bootstrap / MySQL / C / C++ / Git / C# / Python / Java
 </p>
 
 <p align="center" style="display: flex;justify-content: space-around;">
-<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=grejojoby&hide=["issues"]&show_icons=true" alt="grejojoby" />
+<img align="center" width="50%" src="https://github-profile-trophy.vercel.app/?username=grejojoby&theme=juicyfresh&no-frame=true&row=1" alt="grejojoby" />
 <img align="center" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs?username=grejojoby&show_icons=true&locale=en&layout=compact" alt="grejojoby" />
 </p>
 
 <hr>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=grejojoby&theme=juicyfresh&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=grejojoby&theme=juicyfresh&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 
