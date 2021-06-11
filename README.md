@@ -37,6 +37,6 @@ HTML / CSS / JavaScript / Bootstrap / MySQL / C / C++ / Git / C# / Python / Java
 
 <hr>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=grejojoby&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=grejojoby&theme=juicyfresh&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 
