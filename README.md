@@ -23,20 +23,11 @@ HTML / CSS / JavaScript / Bootstrap / C / C++ / Python / Django / Flask / Git / 
 </p>
 
 <hr>
-<p align="center" style="margin-top: 20px;margin-bottom: 10px">
-<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-<hr>
+
 <p align="center" style="margin-top: 20px;margin-bottom: 30px"><a href="https://twitter.com/grejo00"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/grejojoby"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/grejojoby/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
 </p>
 
 <p align="center" style="display: flex;justify-content: space-around;">
   <img align=center src="https://github-readme-stats.vercel.app/api?username=grejojoby&show_icons=true&theme=radical">
 </p>
-
-
 <hr>
-
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=grejojoby&theme=juicyfresh&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy) -->
-
-
