@@ -1,17 +1,12 @@
 <img src="./grejojoby.png" width="900">
 <h1 align="center">Hi Fellow Coder <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Grejo</h1>
 <h3 align="center">Exuberant, Intuitive, Practically Inventive and Problem Solver.</h3>
-<p>📫 Reach out to me at <a href="https://grejo.in" target="_blank">grejo.in</a></p>
-
 <br>
-
 ## ⚡ Technologies
 
 **Talk to me about:**
 
 HTML / CSS / JavaScript / Bootstrap / C / C++ / Python / Django / Flask / Git / GitHub / MongoDB / MySQL / Shared Web Hosting / Domain,DNS / Cloudflare / Digital Ocean / AWS / Firebase / ReactJS / React Native / Flutter / Unity Game Engine 
-
-
 
 <p align=center style="margin-top: 20px;margin-bottom: 10px">
   <a href="https://github.com/grejojoby">
@@ -25,7 +20,7 @@ HTML / CSS / JavaScript / Bootstrap / C / C++ / Python / Django / Flask / Git / 
 </p>
 
 <hr>
-
+<p>📫 Reach out to me at <a href="https://grejo.in" target="_blank">grejo.in</a></p>
 <p align="center" style="margin-top: 20px;margin-bottom: 30px"><a href="https://twitter.com/grejo00"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/grejojoby"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/grejojoby/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
 </p>
 
