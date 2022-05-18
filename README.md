@@ -1,6 +1,8 @@
 <img src="./grejojoby.png" width="900">
 <h1 align="center">Hi Fellow Coder <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Grejo</h1>
 <h3 align="center">Exuberant, Intuitive, Practically Inventive and Problem Solver.</h3>
+<p>📫 Reach out to me at <a href="https://grejo.in" target="_blank">grejo.in</a></p>
+
 <br>
 
 ## ⚡ Technologies
@@ -12,7 +14,7 @@ HTML / CSS / JavaScript / Bootstrap / C / C++ / Python / Django / Flask / Git / 
 
 
 <p align=center style="margin-top: 20px;margin-bottom: 10px">
-  <a href="https://github.com/Terabyte17">
+  <a href="https://github.com/grejojoby">
     <img src="https://visitor-badge.glitch.me/badge?page_id=grejojoby.grejojoby">
   </a>
  
