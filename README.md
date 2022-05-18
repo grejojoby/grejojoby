@@ -1,4 +1,4 @@
-<img src="./grejojoby.png" width="900">
+<!-- <img src="./grejojoby.png" width="900"> -->
 <h1 align="center">Hi Fellow Coder <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Grejo</h1>
 <h3 align="center">Exuberant, Intuitive, Practically Inventive and Problem Solver.</h3>
 <br>
