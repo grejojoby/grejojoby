@@ -28,7 +28,8 @@ HTML / CSS / JavaScript / Bootstrap / C / C++ / Python / Django / Flask / Git / 
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Apache Config   7 mins          █████████████████████▓░░░   87.06 %
+HTML            1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   12.94 %
 ```
 
 <!--END_SECTION:waka-->
