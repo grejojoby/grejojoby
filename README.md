@@ -28,10 +28,9 @@ HTML / CSS / JavaScript / Bootstrap / C / C++ / Python / Django / Flask / Git / 
 <!--START_SECTION:waka-->
 
 ```text
-Apache Config   7 mins          ███████████████████░░░░░░   75.75 %
-HTML            1 min           ████▒░░░░░░░░░░░░░░░░░░░░   16.83 %
-JavaScript      0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 %
-CSS             0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+HTML         0 secs          ██████████▓░░░░░░░░░░░░░░   42.92 %
+JavaScript   0 secs          ██████████▓░░░░░░░░░░░░░░   42.17 %
+CSS          0 secs          ███▓░░░░░░░░░░░░░░░░░░░░░   14.91 %
 ```
 
 <!--END_SECTION:waka-->
