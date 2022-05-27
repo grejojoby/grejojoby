@@ -28,9 +28,7 @@ HTML / CSS / JavaScript / Bootstrap / C / C++ / Python / Django / Flask / Git / 
 <!--START_SECTION:waka-->
 
 ```text
-HTML         0 secs          ██████████▓░░░░░░░░░░░░░░   42.92 %
-JavaScript   0 secs          ██████████▓░░░░░░░░░░░░░░   42.17 %
-CSS          0 secs          ███▓░░░░░░░░░░░░░░░░░░░░░   14.91 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
