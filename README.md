@@ -28,10 +28,10 @@ HTML / CSS / JavaScript / Bootstrap / C / C++ / Python / Django / Flask / Git / 
 <!--START_SECTION:waka-->
 
 ```text
-HTML         2 hrs 35 mins   ████████████░░░░░░░░░░░░░   47.68 %
-TypeScript   2 hrs 2 mins    █████████▒░░░░░░░░░░░░░░░   37.53 %
-JSON         18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
-Other        16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 %
+HTML         1 hr 48 mins    ██████████▒░░░░░░░░░░░░░░   40.92 %
+TypeScript   1 hr 48 mins    ██████████▒░░░░░░░░░░░░░░   40.86 %
+JSON         18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.95 %
+Other        16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 %
 ```
 
 <!--END_SECTION:waka-->
