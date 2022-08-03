@@ -25,17 +25,6 @@ HTML / CSS / JavaScript / Bootstrap / C / C++ / Python / Django / Flask / Git / 
 <p align="center" style="margin-top: 20px;margin-bottom: 30px"><a href="https://twitter.com/grejo00"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/grejojoby"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/grejojoby/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
 </p>
 
-<!--START_SECTION:waka-->
-
-```text
-TypeScript   1 hr 59 mins    ██████████████████▓░░░░░░   74.70 %
-HTML         25 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.13 %
-CSS          14 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.15 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-```
-
-<!--END_SECTION:waka-->
-
 
 <!-- <p align="center" style="display: flex;justify-content: space-around;">
   <img align=center src="https://github-readme-stats.vercel.app/api?username=grejojoby&show_icons=true&theme=radical">
