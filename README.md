@@ -15,7 +15,7 @@ HTML / CSS / JavaScript / Bootstrap / C / C++ / Python / Django / Flask / Git / 
   </a>
  
   <a href="https://github.com/grejojoby?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/grejojoby?style=flat-square&color=black&logo=github">
+<!--     <img src="https://badges.pufler.dev/repos/grejojoby?style=flat-square&color=black&logo=github"> -->
     <a href="https://github.com/grejojoby"><img src="https://img.shields.io/github/followers/grejojoby?style=social"></a>
   </a>
 </p>
