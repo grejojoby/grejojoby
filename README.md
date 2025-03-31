@@ -3,12 +3,6 @@
 <h3 align="center">Exuberant, Intuitive, Practically Inventive and Problem Solver.</h3>
 <br>
 
-## ⚡ Technologies
-
-**Talk to me about:**
-
-HTML / CSS / JavaScript / Bootstrap / C / C++ / Python / Django / Flask / Git / GitHub / MongoDB / MySQL / Shared Web Hosting / Domain,DNS / Cloudflare / Digital Ocean / AWS / Firebase / ReactJS / React Native / Flutter / Unity Game Engine 
-
 <p align=center style="margin-top: 20px;margin-bottom: 10px">
   <a href="https://github.com/grejojoby">
     <img src="https://visitor-badge.glitch.me/badge?page_id=grejojoby.grejojoby">
